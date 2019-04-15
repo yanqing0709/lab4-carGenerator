@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8794CCC322648F68005EE440 /* SharpImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8794CCC222648F68005EE440 /* SharpImageView.swift */; };
 		87F6D6512263638500A786EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87F6D6502263638500A786EF /* AppDelegate.swift */; };
 		87F6D6532263638500A786EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87F6D6522263638500A786EF /* ViewController.swift */; };
 		87F6D6562263638500A786EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87F6D6542263638500A786EF /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8794CCC222648F68005EE440 /* SharpImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharpImageView.swift; sourceTree = "<group>"; };
 		87F6D64D2263638500A786EF /* lab4-carGenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "lab4-carGenerator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		87F6D6502263638500A786EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		87F6D6522263638500A786EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				87F6D6502263638500A786EF /* AppDelegate.swift */,
 				87F6D6522263638500A786EF /* ViewController.swift */,
+				8794CCC222648F68005EE440 /* SharpImageView.swift */,
 				87F6D6542263638500A786EF /* Main.storyboard */,
 				87F6D6572263638600A786EF /* Assets.xcassets */,
 				87F6D6592263638600A786EF /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				87F6D6532263638500A786EF /* ViewController.swift in Sources */,
+				8794CCC322648F68005EE440 /* SharpImageView.swift in Sources */,
 				87F6D6512263638500A786EF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
